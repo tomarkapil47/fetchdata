@@ -1,0 +1,92 @@
+[{"id":1,
+"name":"kapil",
+"email":"tomarkapil50@gmail.com",
+"phone":123,
+"address":{
+    "city":"pilkhuwa",
+    "state":"UP"
+}
+},
+{"id":2,
+"name":"Gaurav Bhati",
+"email":"Bhatigaurav50@gmail.com",
+"phone":1234,
+"address":{
+    "city":"Noida",
+    "state":"UP"
+}
+},
+{"id":3,
+"name":"Tarun Tomar",
+"email":"Tomartrarun50@gmail.com",
+"phone":12345,
+"address":{
+    "city":"Bareilay",
+    "state":"UP"
+}
+},
+{"id":4,
+"name":"Zahid",
+"email":"Khanzahid50@gmail.com",
+"phone":12345,
+"address":{
+    "city":"Lucknow",
+    "state":"UP"
+}
+},
+{"id":5,
+"name":"Mo. Ashif",
+"email":"Khanashif50@gmail.com",
+"phone":12345,
+"address":{
+    "city":"Bhulendsher",
+    "state":"UP"
+}
+},
+{"id":6,
+"name":"saagar",
+"email":"sagar50@gmail.com",
+"phone":12346,
+"address":{
+    "city":"Noida",
+    "state":"UP"
+}
+},
+{"id":7,
+"name":"Sakir Husaan",
+"email":"Hussainsakir50@gmail.com",
+"phone":12347,
+"address":{
+    "city":"Noida",
+    "state":"UP"
+}
+},
+{"id":8,
+"name":"Chetan Tomar",
+"email":"Tomarchetan50@gmail.com",
+"phone":12348,
+"address":{
+    "city":"Pilkhuwa",
+    "state":"UP"
+}
+},
+{"id":9,
+"name":"Rahul Kumar",
+"email":"kumarreahul50@gmail.com",
+"phone":123423,
+"address":{
+    "city":"Ghaziabad",
+    "state":"UP"
+}
+},
+{"id":10,
+"name":"Yusuf",
+"email":"khazyusuf50@gmail.com",
+"phone":123435,
+"address":{
+    "city":"Kanpur",
+    "state":"UP"
+}
+}
+
+]
